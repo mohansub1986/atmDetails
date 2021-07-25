@@ -1,0 +1,8 @@
+com\mohansub\atm\model\Openinghours.class
+com\mohansub\atm\AtmDetailsApplication.class
+com\mohansub\atm\ServletInitializer.class
+com\mohansub\atm\model\JsonRootBean.class
+com\mohansub\atm\controller\AtmRestController.class
+com\mohansub\atm\model\Hours.class
+com\mohansub\atm\model\Address.class
+com\mohansub\atm\model\Geolocation.class
